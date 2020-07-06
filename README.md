@@ -14,13 +14,13 @@
 
 ## Установка
 
-`pip3 install django-dblog`
+`git clone git@github.com:shoytov/django-dblog.git`
 
 ## Настройка и запуск
 
 В setting.py    
-- добавить в INSTALLED_APPS `'dblog.apps.DblogConfig'`
-- добавить в MIDDLEWARE `'dblog.middleware.ExceptionLoggingMiddleware'`    
+- добавить в INSTALLED_APPS `'django-dblog.apps.DblogConfig'`
+- добавить в MIDDLEWARE `'django-dblog.middleware.ExceptionLoggingMiddleware'`    
 
 Выполнить `python3 manage.py migrate`
 
