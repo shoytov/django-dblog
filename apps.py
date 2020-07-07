@@ -2,5 +2,5 @@ from django.apps import AppConfig
 
 
 class DblogConfig(AppConfig):
-    name = 'dblog'
+    name = 'django-dblog'
     verbose_name = 'Error Logs'
