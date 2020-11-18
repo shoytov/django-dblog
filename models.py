@@ -1,6 +1,7 @@
 from django.db import models
 from django.utils.timezone import now
 
+
 # Create your models here.
 class ErrorLog(models.Model):
     """ возникшие ошибки с полным описанием """
