@@ -1,10 +1,15 @@
 README.md
 setup.py
+dblog/__init__.py
+dblog/admin.py
+dblog/apps.py
+dblog/loguru_db_handler.py
+dblog/middleware.py
+dblog/models.py
+dblog/migrations/__init__.py
 django_logging_into_db.egg-info/PKG-INFO
 django_logging_into_db.egg-info/SOURCES.txt
 django_logging_into_db.egg-info/dependency_links.txt
 django_logging_into_db.egg-info/requires.txt
 django_logging_into_db.egg-info/top_level.txt
-migrations/0001_initial.py
-migrations/0002_errorlog_referer.py
 migrations/__init__.py

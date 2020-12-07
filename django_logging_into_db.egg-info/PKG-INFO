@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: django-logging-into-db
-Version: 0.0.1
+Version: 0.0.2
 Summary: Log http errors or custom logs with loguru library into db
 Home-page: https://github.com/shoytov/django-dblog
 Author: Dmitry Shoytov

@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
 	name="django-logging-into-db",  # Replace with your own username
-	version="0.0.1",
+	version="0.0.2",
 	author="Dmitry Shoytov",
 	author_email="shoytov@gmail.com",
 	description="Log http errors or custom logs with loguru library into db",
